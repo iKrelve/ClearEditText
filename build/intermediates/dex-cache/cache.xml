@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\code\android\ClearEditText\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\code\android\ClearEditText\app\build\intermediates\pre-dexed\debug\classes-809aa1309d8f8bac7e2994372bdd157e3ffc1f39.jar" />
+    </item>
+    <item
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\code\android\ClearEditText\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-b106cf0339fad8182bb3ad490a55389828f7415b.jar" />
+    </item>
+    <item
+        jar="D:\code\android\ClearEditText\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\code\android\ClearEditText\app\build\intermediates\pre-dexed\debug\classes-1da4dd3947378e8c782c1db6f403e67a74cfa4f4.jar" />
+    </item>
+    <item
+        jar="D:\code\android\ClearEditText\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\code\android\ClearEditText\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-877f3138e4889b2deec316a9a8d111258fdf7397.jar" />
+    </item>
+    <item
+        jar="D:\code\android\ClearEditText\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\code\android\ClearEditText\app\build\intermediates\pre-dexed\debug\classes-b0033b77a6349b6a25654eb9360e5c0780a8f4c1.jar" />
+    </item>
+
+</items>
